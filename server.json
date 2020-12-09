@@ -17,36 +17,12 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
-    },
-    {
-      "name": "Moda italiana",
-      "description": "Uma comida tradicional da italia",
-      "price": "20,00",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "id": 4
-    },
-    {
       "name": "Moda italiana2",
-      "description": "testando",
+      "description": "Uma comida tradicional da italia",
       "price": "30,00",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "id": 5
-    },
-    {
-      "name": "",
-      "description": "",
-      "price": "",
-      "available": true,
-      "image": "",
-      "id": 6
+      "id": 4
     }
   ]
 }
